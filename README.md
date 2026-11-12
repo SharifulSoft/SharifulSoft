@@ -76,7 +76,7 @@ Undergraduate thesis prepared for the thesis defense committee, Department of CS
 
 | Degree | Institution | Result | Period |
 |--------|-------------|--------|--------|
-| **B.Sc. in Computer Science & Engineering** | IUBAT, Dhaka | CGPA: **4.43** | 2020 – 2024 |
+| **B.Sc. in Computer Science & Engineering** | IUBAT, Dhaka | CGPA: **3.43** | 2020 – 2024 |
 | **HSC (Science)** | Nawab Fayzunnesa Govt. College, Cumilla | GPA: 3.67 | 2019 |
 | **SSC (Science)** | Goiarbhanga High School, Cumilla | GPA: 4.78 | 2016 |
 
